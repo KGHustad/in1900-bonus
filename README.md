@@ -1,13 +1,17 @@
-Dette repoet inneholder materialet fra bonusforelesningen i IN1900 19. desember 2017. Screencast finnes [her](FIXME).
+Dette repoet inneholder materialet fra bonusforelesningen i IN1900 19. desember 2017. Screencast finnes [her](https://screencast.uninett.no/relay/ansatt/krihusuio.no/2017/19.12/2338798/IN1900_2017-12-19_Bonusforelesning_-_20171219_132900_39.html).
 
 Du kan laste ned hele dette repoet med følgende kommando (logg inn med vanlig UiO-brukernavn og -passord)
 ``` sh
 git clone https://github.com/KGHustad/in1900-bonus.git
 ```
 
+Du kan også kjøre eksemplene på [UiOs JupyterHub](https://jupyterhub.uio.no). Opprett en ny terminal, og kjør
+``` sh
+git clone https://github.com/KGHustad/in1900-bonus.git ~/work/in1900-bonus
+```
+da blir filene herfra lastet en mappe på øverste nivå i JupyterHub.
 
 ## Kompatibilitet
-
 Det meste bør fungere fint hvis man allerede har Anaconda installert. For å kunne laste ned notebooks som PDF, må man i tillegg ha LaTeX installert.
 
 * Jupyter
