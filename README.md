@@ -1,4 +1,4 @@
-Dette repoet inneholder materialet fra bonusforelesningen i IN1900 19. desember 2017. Screencast finnes [her](https://screencast.uninett.no/relay/ansatt/krihusuio.no/2017/19.12/2338798/IN1900_2017-12-19_Bonusforelesning_-_20171219_132900_39.html).
+Dette repoet inneholder materialet fra bonusforelesningen i IN1900 19. desember 2017. Screencast finnes [her](https://screencast.uninett.no/relay/ansatt/krihusuio.no/2017/19.12/2338798/IN1900_2017-12-19_Bonusforelesning_-_20171219_132900_39.html), og lysarkene ligger [her](http://folk.uio.no/krihus/in1900/h17/bonus.pdf).
 
 Du kan laste ned hele dette repoet med følgende kommando (logg inn med vanlig UiO-brukernavn og -passord)
 ``` sh
